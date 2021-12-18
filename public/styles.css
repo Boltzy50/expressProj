@@ -22,3 +22,8 @@ figcaption {
     
 }
 
+h1 {
+    text-align: center;
+    background-color: black;
+    text-decoration: underline;
+}
