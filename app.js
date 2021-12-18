@@ -13,9 +13,6 @@ const db = require('./db');
 const res = require('express/lib/response');
 app.use(express.static('public'));
 
-// app.get('/', (req, res)=>{
-    
-// })
 
 app.get('/mySongs', (req, res)=>{
     let htmlString = ``;

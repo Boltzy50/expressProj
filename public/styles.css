@@ -1,0 +1,24 @@
+.early {
+    max-width:65%;
+    height:auto;
+    display:block;
+    margin:auto;
+
+}
+
+.pic {
+    max-width:90%;
+    height:auto;
+    display:block;
+    margin:auto;
+}
+
+figcaption {
+    color:rgba(128, 128, 128, 0.281);
+    font-size: x-small;
+    max-width: 50%;
+    display:block;
+    margin:auto;
+    
+}
+
